@@ -1,0 +1,27 @@
+{
+  "/": [
+    "Friday Night Fights"
+  ],
+  "/Friday Night Fights": [
+    "Home",
+    "Session Notes",
+    "Locations",
+    "NPCs"
+  ],
+  "/Friday Night Fights/Session Notes": [
+    "20260403",
+    "260417",
+    "260424"
+  ],
+  "/Friday Night Fights/Locations": [
+    "Neverwinter",
+    "Gracklstugh",
+    "Underdark"
+  ],
+  "/Friday Night Fights/Locations/Neverwinter": [
+    "Neverwinter"
+  ],
+  "/Friday Night Fights/NPCs": [
+    "Underdark escapees"
+  ]
+}
